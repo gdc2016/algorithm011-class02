@@ -1,3 +1,7 @@
+---
+typora-copy-images-to: ./
+---
+
 # 第一周学习总结
 
 本周主要学习了数组、链表、跳表，栈和队列。
@@ -26,7 +30,7 @@ array = [1,2,3,4]
 
 链表的主要类型如下：
 
-![image-20200626233743188](C:\Users\gdc20\AppData\Roaming\Typora\typora-user-images\image-20200626233743188.png)
+![image-20200626233743188](E:\个人学习\算法训练营\homework\algorithm011-class02\Week_01\image-20200626233743188.png)
 
 在python中链表的节点实现方式如下：
 
@@ -58,7 +62,7 @@ class Node():
 
 跳表的示意图如下：
 
-![img](https://lotabout.me/2018/skip-list/linked-list-4.svg)
+![img](E:\个人学习\算法训练营\homework\algorithm011-class02\Week_01\linked-list-4.svg)
 
 
 
@@ -76,7 +80,7 @@ class Node():
 
 栈的示意图如下：
 
-![image-20200627124140447](C:\Users\gdc20\AppData\Roaming\Typora\typora-user-images\image-20200627124140447.png)
+![image-20200627124140447](E:\个人学习\算法训练营\homework\algorithm011-class02\Week_01\image-20200627124140447.png)
 
 栈的常用操作如下：
 
@@ -91,7 +95,7 @@ class Node():
 
 队列的示意图如下：
 
-![image-20200627002822266](C:\Users\gdc20\AppData\Roaming\Typora\typora-user-images\image-20200627002822266.png)
+![image-20200627002822266](E:\个人学习\算法训练营\homework\algorithm011-class02\Week_01\image-20200627002822266.png)
 
 与栈不同，队列的特性是先入先出(FIFO)。
 
